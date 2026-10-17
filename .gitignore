@@ -1,0 +1,14 @@
+Debug/
+Release/
+.settings/
+.metadata/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+.DS_Store
